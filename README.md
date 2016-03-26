@@ -1,2 +1,1 @@
-# OpenSourceMirrors
-OpenSource
+# JD Cloud Global Open Source Mirrors
